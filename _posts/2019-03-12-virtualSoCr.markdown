@@ -16,4 +16,4 @@ externalLink: false
 ---
 # Vigilancia de Coronavirus 19 en Sudamérica
 
-![Screenshot]( https://github.com/vrrp/vrrp.github.io/blob/master/assets/images/covid19_sudamerica.png)
+![Screenshot]( https://github.com/vrrp/vrrp.github.io/blob/master/assets/images/covid19_sudamerica.png?raw=true)
