@@ -17,6 +17,6 @@ externalLink: false
 # Vigilancia de Coronavirus 19 en Sudamérica
 
 
-![Screenshot](https://raw.githubusercontent.com/RoseLeBlood/virtualSoC/master/images/viSoCStudio2018.png)
+![Screenshot](https://github.com/vrrp/vrrp.github.io/blob/master/assets/images/covid19_sudamerica.png)
 
 
