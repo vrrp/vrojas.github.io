@@ -1,8 +1,8 @@
 ---
-title: ":Covid-19: Sudamerica"
+title: "Covid-19: Sudamerica"
 layout: post
 date: 2020-03-06 17:00
-tag: csharp
+tag: false #csharp
 image: https://roseleblood.github.io/openess/Logo-OpenESS.png
 headerImage: false
 projects: true
