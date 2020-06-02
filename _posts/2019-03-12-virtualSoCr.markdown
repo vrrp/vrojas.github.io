@@ -1,7 +1,7 @@
 ---
-title: ":shell: virtual SoC with instructionset"
+title: ":Covid-19: Sudamerica"
 layout: post
-date: 2019-03-12 17:00
+date: 2020-03-06 17:00
 tag: csharp
 image: https://roseleblood.github.io/openess/Logo-OpenESS.png
 headerImage: false
