@@ -1,5 +1,5 @@
 # main text of home
-name: Anna_Sophia Schröck
+name: Víctor_Raúl Rojas
 bio: Hobby programming
 
 # twitter summary info
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: http://roseleblood.github.io
+url: http://vrrp.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project, openess] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: paderrose
-twitter: padersophia
+facebook: false
+twitter: false
 # google: mygoogle
-instagram: roseleblood.official
+instagram: false #roseleblood.official
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: roseleblood
+github: vrrp
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: roseleblood
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: annasophia.schroeck@gmail.com
+email: avr.rojaspozo@gmail.com
 
 authors:
     roseleblood:
