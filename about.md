@@ -6,15 +6,17 @@ layout: page
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>C/C++ </li>
-	<li>ASM (i386 and ARM (Raspberry PI)</li>
-	<li>C#</li>
-	<li>VB6</li>
-	<li>HTML</li>
-	<li>Git</li>
-	<li>PHP</li>
+<ul class="skills">
 	<li>Python</li>
-	<li>MySQL</li>
+	<li>Julia</li>
+	<li>C</li>
+	<li>R</li>
+	<li>Git</li>
+</ul>
 
+<ul class="Academic interests">
+	<li>Earth system (hydrosphere-atmosphere-soil-cryosphere interaction)<s/li>
+	<li>Study of extreme events in the ocean and atmosphere</li>
+	<li>Data science, data mining, database, high performance computing
+	    HPC and web design.</li>
 </ul>
