@@ -13,6 +13,7 @@ layout: page
 	<li>C</li>
 	<li>R</li>
 	<li>Git</li>
+	<li>OS Linux distros Centos 7, Fedora and Opensuse
 </ul>
 
 <h2>Academic interests</h2>
