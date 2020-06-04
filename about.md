@@ -9,6 +9,7 @@ layout: page
 <ul class="skills">
 	<li>Python</li>
 	<li>Julia</li>
+	<li>Fortran</li>
 	<li>C</li>
 	<li>R</li>
 	<li>Git</li>
@@ -16,7 +17,7 @@ layout: page
 
 <h2>Academic interests</h2>
 <ul class="Academic interests">
-	<li>Earth system (hydrosphere-atmosphere-soil-cryosphere interaction).</li>
+	<li>Earth systems (hydrosphere-atmosphere-soil-cryosphere interaction).</li>
 	<li>Study of extreme events in the ocean and atmosphere.</li>
 	<li>Data science, data mining, database, high performance computing
 	    HPC and web design.</li>
