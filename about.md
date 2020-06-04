@@ -25,5 +25,5 @@ layout: page
 
 <h2>Sports interests</h2>
 <ul class="Sports interests">
-	<li>Surf, mountaineering, computer games</li>
+	<li>Surf, mountaineering and computer games.</li>
 </ul>
