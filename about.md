@@ -8,6 +8,7 @@ layout: page
 
 <ul class="skills">
 	<li>Python</li>
+	<li>Jupyter Lab and Jupyter Hub</li>
 	<li>Julia</li>
 	<li>Fortran</li>
 	<li>C</li>
