@@ -17,4 +17,5 @@ externalLink: false
 # Dinámica del Coronavirus-19 en Sudamérica
 
 ![Screenshot]( https://github.com/vrrp/vrrp.github.io/blob/master/assets/images/covid19_sudamerica.png?raw=true)
-[google](https://www.google.com)
+
+For more detailed information above the dynamics of covid-19 in Perú, see  [here](https://datastudio.google.com/reporting/cbef9462-bbb4-4bf9-b713-652b8245ec5f/page/erUJB?s=mCoRDLlgMV4)
