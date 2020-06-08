@@ -1,5 +1,5 @@
 ---
-title: "Covid-19: Sudamerica"
+title: "Covid-19: South America"
 layout: post
 date: 2020-03-06 17:00
 tag: false #csharp
@@ -14,7 +14,7 @@ externalLink: false
 ---
 
 ---
-# Dinámica del Coronavirus-19 en Sudamérica
+# Dynamics of Coronavirus-19 in South America
 
 ![Screenshot]( https://github.com/vrrp/vrrp.github.io/blob/master/assets/images/covid19_sudamerica.png?raw=true)
 
