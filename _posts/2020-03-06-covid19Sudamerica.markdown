@@ -18,4 +18,4 @@ externalLink: false
 
 ![Screenshot]( https://github.com/vrrp/vrrp.github.io/blob/master/assets/images/covid19_sudamerica.png?raw=true)
 
-For more detailed information about the dynamics of **covid-19 in Perú**, see  [here](https://datastudio.google.com/reporting/cbef9462-bbb4-4bf9-b713-652b8245ec5f/page/erUJB?s=mCoRDLlgMV4). Including a model for the forecast and its evolution in the following weeks and months <span style='color:red'>(in spanish)</span>
+For more detailed information about the dynamics of **covid-19 in Perú**, see <span style'color:blue'> [here](https://datastudio.google.com/reporting/cbef9462-bbb4-4bf9-b713-652b8245ec5f/page/erUJB?s=mCoRDLlgMV4)</span>. Including a model for the forecast and its evolution in the following weeks and months <span style='color:red'>(spanish)</span>
