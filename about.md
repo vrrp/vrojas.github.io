@@ -22,7 +22,7 @@ layout: page
 	<li>Earth systems (hydrosphere-atmosphere-soil-cryosphere interaction).</li>
 	<li>Study of extreme events in the ocean and atmosphere.</li>
 	<li>Data science, data mining, database, high performance computing
-	    HPC and web design.</li>
+	    HPC, digital tracking and web design.</li>
 </ul>
 
 <h2>Sports interests</h2>
