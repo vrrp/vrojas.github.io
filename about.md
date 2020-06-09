@@ -7,7 +7,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skills">
-	<li>Python 3</li>
+	<li><a href="https://www.python.org/">Python 3</a></li>
 	<li>Jupyter Lab and Jupyter Hub</li>
 	<li>Julia</li>
 	<li>Fortran</li>
