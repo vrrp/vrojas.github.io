@@ -14,7 +14,7 @@ layout: page
 	<li><a href="https://gcc.gnu.org/">C /C++ /Fortran 90</a></li>
 	<li><a href="https://www.r-project.org/">R</a></li>
 	<li><a href="https://git-scm.com/">Git</a></li>
-	<li>OS Linux distros <a href="https://www.centos.org/">Centos 7</a>, <a href="https://getfedora.org/">Fedora</a> and <a href="https://software.opensuse.org/distributions/leap?locale=es">Opensuse Leap</a></li>
+	<li>OS Linux distros <a href="https://www.centos.org/">Centos</a>, <a href="https://getfedora.org/">Fedora</a> and <a href="https://software.opensuse.org/distributions/leap?locale=es">Opensuse Leap</a></li>
 </ul>
 
 <h2>Academic interests</h2>
