@@ -11,7 +11,7 @@ layout: page
 	<li><a href="https://www.anaconda.com/products/individual">Anaconda</a></li>
 	<li><a href="https://jupyter.org/">Jupyter Lab and Jupyter Hub</a></li>
 	<li><a href="https://julialang.org/">Julia</a></li>
-	<li><a href="https://gcc.gnu.org/">C/C++/Fortran</a></li>
+	<li><a href="https://gcc.gnu.org/">C / C++ / Fortran</a></li>
 	<li><a href="https://www.r-project.org/">R</a></li>
 	<li><a href="https://git-scm.com/">Git</a></li>
 	<li>OS Linux distros <a href="https://www.centos.org/">Centos 7</a>, <a href="https://getfedora.org/">Fedora</a> and <a href="https://software.opensuse.org/distributions/leap?locale=es">Opensuse Leap</a></li>
