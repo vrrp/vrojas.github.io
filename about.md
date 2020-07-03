@@ -8,7 +8,7 @@ layout: page
 
 <ul class="skills">
 	<li><a href="https://www.python.org/">Python 3</a></li>
-	<li><a href="https://www.anaconda.com/products/individual">Anaconda</a> (see some <a href="https://www.anaconda.com/library/anaconda-fan-testimonials">Fan Testimonials)</a></li>
+	<li><a href="https://www.anaconda.com/products/individual">Anaconda</a> (see some <a href="https://www.anaconda.com/library/anaconda-fan-testimonials">Fan Testimonials</a>)</li>
 	<li><a href="https://jupyter.org/">Jupyter Lab and Jupyter Hub </a></li>
 	<li><a href="https://julialang.org/">Julia</a></li>
 	<li><a href="https://gcc.gnu.org/">C /C++ /Fortran 90</a></li>
